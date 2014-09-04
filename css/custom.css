@@ -9,7 +9,7 @@ li a:hover
 	color: #428bca !important;
 }
 
-li a
+.nav li a
 {
 	margin-top: 13px !important;
 	font-size: 20px !important;
