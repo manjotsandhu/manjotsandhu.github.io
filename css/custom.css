@@ -1,7 +1,6 @@
-h1:hover
+.container h1
 {
 	color: #428bca !important;
-
 }
 
 li a:hover
@@ -11,6 +10,11 @@ li a:hover
 
 .nav li a
 {
-	margin-top: 13px !important;
-	font-size: 20px !important;
+	margin-top: 13px;
+	font-size: 20px;
+}
+
+body
+{
+	padding-top: 100px;
 }
